@@ -1,0 +1,4 @@
+# Dataset
+*.txt
+# Environment
+cuda/
